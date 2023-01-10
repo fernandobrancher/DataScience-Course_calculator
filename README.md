@@ -13,6 +13,3 @@ Entrada: 2 ^ 4
 Saída: 16
 ```
 Faça o tratamento de erros para quando a entrada não estiver no formato adequado, os dados de entrada não forem dados válidos ou o operador for inválido. Ao final, mostre a saída da operação.
-
-Teste de alteração para prática de git.
-
